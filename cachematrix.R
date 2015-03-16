@@ -2,7 +2,7 @@
 ## Caching the Inverse of a Matrix ##
 #####################################
 
-## The following functions create a matrix that cache the inverse and 
+## The following functions create a matrix that cache and 
 ## compute the inverse of a square matrix with the "solve" function,
 ## assuming that the matrix supplied is always invertible.
 
